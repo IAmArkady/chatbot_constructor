@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/eye_open.png</file>
+        <file>images/vk.png</file>
+        <file>images/auth_back.jpg</file>
+        <file>images/checkbox_unchecked.png</file>
+        <file>images/checkbox_checked.png</file>
+        <file>images/eye_close.png</file>
+        <file>images/prog_back.jpg</file>
+        <file>images/delete.png</file>
+        <file>forms/auth/auth.ui</file>
+        <file>forms/auth/enter.ui</file>
+        <file>forms/bots/bots.ui</file>
+        <file>forms/bots/group.ui</file>
+        <file>forms/bots/bot.ui</file>
+        <file>images/play.png</file>
+        <file>images/stop.png</file>
+        <file>forms/bots/graph/viewport.ui</file>
+        <file>forms/bots/graph/keywords.ui</file>
+        <file>forms/bots/graph/messages.ui</file>
+        <file>forms/bots/graph/button.ui</file>
+        <file>forms/bots/graph/requests.ui</file>
+        <file>forms/bots/graph/dialog_button.ui</file>
+        <file>forms/bots/graph/dialog_variables.ui</file>
+        <file>forms/bots/graph/inputs.ui</file>
+        <file>forms/bots/graph/actions.ui</file>
+        <file>images/minus.png</file>
+        <file>images/plus.png</file>
+        <file>images/logo.png</file>
+        <file>images/chatbot.png</file>
+        <file>images/search_input.png</file>
+        <file>images/command.png</file>
+        <file>images/combobox.svg</file>
+        <file>forms/bots/graph/variable.ui</file>
+    </qresource>
+</RCC>

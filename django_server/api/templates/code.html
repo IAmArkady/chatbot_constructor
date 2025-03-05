@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Код авторизации</title>
+    <style>
+        .code{
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            text-align: left;
+            margin-top: 25px;
+        }
+
+        .text{
+            font-size: 30px;
+        }
+
+        .input_code{
+            padding: 5px;
+            border: 2px solid #3ea6e0;
+            border-radius: 5px;
+            font-size: 20px;
+            text-align: center;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+<div class="code">
+    <span class="text">Ваш код авторизации: <input class="input_code" type="text"  value="{{ code }}" readonly> </span>
+</div>
+</body>
+</html>

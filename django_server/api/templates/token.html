@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Результат подключения</title>
+</head>
+<body>
+{% if error %}
+    <div class="error">{{ error }}</div>
+{% endif %}
+
+{% if success %}
+    <div class="error">{{ success }}</div>
+{% endif %}
+</body>
+</html>
